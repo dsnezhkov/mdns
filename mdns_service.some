@@ -1,0 +1,8 @@
+_echo._udp:7
+_chargen._tcp:19
+_ipp._tcp:631
+_telnet._tcp:23
+_deos._tcp:76
+_http._tcp:80
+_bpmd._udp:3593
+_ssh._tcp:22
